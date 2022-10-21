@@ -1,0 +1,13 @@
+
+@media screen and (max-width: 600px) {
+    .container-text label {
+        font-size: 3rem;
+    }
+}
+
+@media screen and (max-width: 550px) {
+    #input-color{
+        width: 80%;
+    }
+
+}
