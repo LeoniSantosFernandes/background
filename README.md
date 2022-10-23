@@ -2,7 +2,7 @@
 
 ⚙️ Projeto simples o usuário tem a experiência de esperimentar as cores na forma hexadecimal, podendo de sua escolhar usar a # (hashtag) ou não.
   
-⚙️ Tecnologias usadas: HTML, CSS e JAVASCRIPT!
+⚙️ Tecnologias usadas: HTML, CSS e JAVASCRIPT! </br>
 💻 Telas: Mobile, Tablets e Desktops
 
 ⌛️  Tempo de produção: 40m (quartenta minutos)
